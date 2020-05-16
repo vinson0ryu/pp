@@ -1,0 +1,78 @@
+body{
+    background-image: url("imgs/homebg.jpg");
+    background-size: cover;
+    image-rendering: optimizeSpeed;
+    background-repeat: no-repeat;
+
+   
+}
+
+.navbar{
+    background: transparent;
+    position: fixed;
+}
+#fix{
+    position: fixed;
+}
+
+.bob{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.nav-link:hover{
+    text-decoration: none;
+    text-emphasis: none;
+    color: seashell;
+
+}
+
+ /* BODY-CONTENT */
+
+ .jumbotron{
+     margin-left: 0rem;
+     margin-top: 6rem;
+ }
+
+ #lily{
+    background-image: url("imgs/jumbo.jpg");
+    background-size: cover;
+    image-rendering: optimizeSpeed;
+    background-repeat: no-repeat;
+ }
+
+#head{
+     color: #000000;
+     font-weight: 250;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 2rem;
+     text-shadow: grey;
+     text-align: center;
+}
+
+ p{
+     color: rgb(221, 221, 221);
+     font-weight: 400;
+     font-size: 1.5rem;
+ }
+#bdcon{
+    margin: auto;
+    padding: 1rem;
+}
+
+#imghead{
+    width: 14rem;
+}
+
+#social{
+    font-size: 2rem;
+    color: ivory;
+    font-weight: 500;
+    padding: 0.5rem;
+    background-color: lightcoral;
+}
+
+
+#jumbotxt{
+    color: rgb(255, 255, 255);
+    background-color: rgba(58, 56, 56, 0.287);
+}

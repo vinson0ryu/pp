@@ -1,0 +1,77 @@
+body{
+    background-image: url("imgs/bgbody2.jpg");
+    background-size: cover;
+    image-rendering: optimizeSpeed;
+    background-repeat: no-repeat;
+    
+   
+}
+
+.navbar{
+    background: transparent;
+    position: fixed;
+}
+#fix{
+    position: fixed;
+}
+
+.bob{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.nav-link:hover{
+    text-decoration: none;
+    text-emphasis: none;
+    color: seashell;
+
+}
+
+ /* BODY-CONTENT */
+
+ .jumbotron{
+     margin-left: 0rem;
+     margin-top: 6rem;
+ }
+
+ #lily{
+    background-color: rgba(252, 235, 235, 0.15);
+ }
+
+#head{
+     color: #000000;
+     font-weight: 300;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 3rem;
+     text-shadow: grey;
+}
+
+ p{
+     color: rgb(221, 221, 221);
+     font-weight: 400;
+     font-size: 1.5rem;
+ }
+
+ #cardtext{
+     color: rgb(226, 223, 223);
+ }
+
+#bodyfoot{
+    margin-bottom: 2rem;
+}
+
+#cards{
+    background-color: rgba(252, 235, 235, 0.15);
+    float: left;
+}
+#cardhead{
+    color: silver;
+}
+
+#spcltxt{
+    font-size: medium;
+    color: rgb(82, 79, 79);
+}
+
+#note{
+    font-size: medium;
+}
